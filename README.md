@@ -55,10 +55,10 @@
 
 ### 📈 GitHub Statistics
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadZaid20187&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadZaid20187&layout=compact&theme=tokyonight" width="49%" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AhmadZaid20187&theme=tokyonight&hide_border=false" width="70%" />
