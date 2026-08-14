@@ -65,13 +65,13 @@
 </p> -->
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+  
   <P>![Ahmad's GitHub stats](https://github-readme-stats.shion.dev/api?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false)</P>
 </p>
 
 ![Ahmad's GitHub stats](https://github-readme-stats.shion.dev/api?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadZaid20187\&theme=tokyonight\&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadZaid20187\&theme=tokyonight\&hide_border=false) ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
 
 
