@@ -65,7 +65,7 @@
 </p> -->
 
 <p align="center">
-  <P>![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)</P>
+  ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
   <P>![Ahmad's GitHub stats](https://github-readme-stats.shion.dev/api?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false)</P>
 </p>
 
