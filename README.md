@@ -201,14 +201,21 @@ An interactive dashboard for managing job applications with different statuses s
 
 ### 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadZaid20187&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadZaid20187&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AhmadZaid20187&theme=tokyonight&hide_border=false" width="70%" />
-</p>
+</p> -->
+
+![Ahmad's GitHub stats](https://github-readme-stats.shion.dev/api?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadZaid20187\&theme=tokyonight\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmadZaid20187\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+
 
 ---
 
