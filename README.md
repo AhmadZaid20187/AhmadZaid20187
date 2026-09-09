@@ -76,7 +76,7 @@
 
 ### 📬 Connect With Me
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: [Portfolio.com]([https://your-portfolio.com](https://portfolio-eta-virid-at78yujkqp.vercel.app/))
 - 💼 LinkedIn: [zaid20187](https://www.linkedin.com/in/zaid20187)
 - 📧 Email: [ahmadzaid20187@gmail.com](mailto:ahmadzaid20187@gmail.com)
 
