@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zaid20187"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmadzaid20187@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-eta-virid-at78yujkqp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://ahmad-zaid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 ### 📬 Connect With Me
 
-- 🌐 Portfolio: [[Portfolio.com](https://portfolio-eta-virid-at78yujkqp.vercel.app/)]
+- 🌐 Portfolio: [[Portfolio.com](https://ahmad-zaid.vercel.app/)]
 - 💼 LinkedIn: [zaid20187](https://www.linkedin.com/in/zaid20187)
 - 📧 Email: [ahmadzaid20187@gmail.com](mailto:ahmadzaid20187@gmail.com)
 
